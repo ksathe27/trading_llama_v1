@@ -1,0 +1,11 @@
+wrds
+yahoo-finance
+numpy
+matplotlib
+stockstats
+gym==0.21.0
+stable-baselines
+tensorflow==2.11.0
+pyfolio
+tensorboard==2.11.2
+pandas==1.4.4
